@@ -10,9 +10,9 @@ example} 송상준 0001
 [MarkDown 문법]: http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
 [Git 명령어]: http://blog.outsider.ne.kr/572
 
-자기소개
+##자기소개
 
 
-###이름: 최대형 학번: 2011125031
+이름: 최대형 학번: 2011125031
 
-###안녕하세요. 24살 입니다.
+안녕하세요. 24살 입니다.
